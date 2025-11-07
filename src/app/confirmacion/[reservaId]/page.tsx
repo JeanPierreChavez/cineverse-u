@@ -115,7 +115,7 @@ export default function ConfirmacionPage() {
             <h2 className="text-3xl font-bold text-white mb-2">
               🎬 ENTRADA DE CINE
             </h2>
-            <p className="text-purple-100">Sistema de Reservas Estudiantil</p>
+            <p className="text-purple-100">Sistema de Reservas Estudiantil 34</p>
           </div>
 
           {/* Información de la película */}
